@@ -45,27 +45,27 @@ experiences:
       time: 2021 - Present
       company: Decentra Network
       details: |
-      I work as CTO and develop on this ambitious blockchain project.
-      Technologies are
-        - Python
-        - Blockchain
-        - Consensus Agorithms
-        - Kivy
-        - Flask
-        - HTML5 & CSS
+          I work as CTO and develop on this ambitious blockchain project.
+          Technologies we use:
+            - Python
+            - Blockchain
+            - Consensus Agorithms
+            - Kivy
+            - Flask
+            - HTML5 & CSS
       
     - role: Co-Founder && Full Stack Developer
       time: 2020 - 2021
       company: Worksspace
       details: |
-      I worked as a full stack developer
-      in the early stages of this innovative venture.
-      Technologies are
-        - Python
-        - WordPress
-        - Bootstrap
-        - Flask
-        - HTML5 & CSS
+          I worked as a full stack developer
+          in the early stages of this innovative venture.
+          Technologies we use:
+            - Python
+            - WordPress
+            - Bootstrap
+            - Flask
+            - HTML5 & CSS
         
 projects:
     title: Projects
