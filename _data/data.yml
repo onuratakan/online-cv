@@ -117,7 +117,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-projects:
+libraries:
     title: Libraries
     intro: >
       You can list your side projects or open source libraries in this
