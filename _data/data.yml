@@ -39,13 +39,14 @@ career-profile:
     I developed myself after getting acquainted with programming at an early age, 
     then combined my programming knowledge and capacity with various business ideas and 
     institutions.
+
 experiences:
     - role: Founder && CTO
       time: 2021 - Present
       company: Decentra Network
       details: |
       I work as CTO and develop on this ambitious blockchain project.
-      Technologies we use:
+      Technologies are
         - Python
         - Blockchain
         - Consensus Agorithms
@@ -59,7 +60,7 @@ experiences:
       details: |
       I worked as a full stack developer
       in the early stages of this innovative venture.
-      Technologies we use:
+      Technologies are
         - Python
         - WordPress
         - Bootstrap
