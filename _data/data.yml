@@ -67,11 +67,41 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Decentra Network
+        link: "https://github.com/Decentra-Network/Decentra-Network"
+        tagline: "This is an open source decentralized application network. In this network, you can develop and publish decentralized applications."
 
+      - title: MIXON
+        link: "https://github.com/onuratakan/MIXON"
+        tagline: "Next generation cyber security research and testing software."
 
+      - title: (POW) Blockchain Network Infrustructure
+        link: "https://github.com/onuratakan/POW-Blockchain-Network-Infrustructureç"
+        tagline: "This is an open source blockchain network and crytocurrency project. It exists for people to build and use their own blockchain networks. Or to join the network created by others."
+
+      - title: ONUR Voice Assistant
+        link: "https://pypi.org/project/ONUR-Voice-Assistant/"
+        tagline: "A modular and expandable voice assistant."
+
+      - title: HACON
+        link: "https://pypi.org/project/HACON/"
+        tagline: "a comprehensive cybersecurity toolç"
+
+      - title: Site Seo Scanner
+        link: "https://pypi.org/project/HACON/"
+        tagline: "A site seo scanner."
+
+      - title: Say Me Something
+        link: "https://pypi.org/project/say-me-something/"
+        tagline: "A text to speak library with embedded cache system."
+
+      - title: Ask Me Something
+        link: "https://pypi.org/project/ask-me-something/"
+        tagline: "A speech to text library."
+
+      - title: Linear Congruential Generator
+        link: "https://pypi.org/project/ask-me-something/"
+        tagline: "A alternative random number generator."
 
 skills:
     title: Skills &amp; Proficiency
