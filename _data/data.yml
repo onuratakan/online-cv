@@ -106,10 +106,13 @@ projects:
         link: "https://pypi.org/project/ask-me-something/"
         tagline: "A alternative random number generator."
 
-
       - title: Get Crypto Price
         link: "https://pypi.org/project/get-crypto-price/"
         tagline: "A library to getting crypto price."
+
+      - title: RSI Calculator
+        link: "https://pypi.org/project/rsi-calculator/"
+        tagline: "A library to calculating RSI."
 
 skills:
     title: Skills &amp; Proficiency
