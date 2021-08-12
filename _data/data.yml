@@ -113,6 +113,10 @@ projects:
       - title: RSI Calculator
         link: "https://pypi.org/project/rsi-calculator/"
         tagline: "A library to calculating RSI."
+        
+      - title: TD Sequential Calculator
+        link: "https://pypi.org/project/td-sequential-calculator/"
+        tagline: "A library to calculating td sequental."      
 
 skills:
     title: Skills &amp; Proficiency
