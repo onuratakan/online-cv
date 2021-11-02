@@ -41,11 +41,26 @@ career-profile:
         institutions.
 
 experiences:
-    - role: Founder && CTO
+    - role: Co-Founder && CTO
       time: 2021 - Present
-      company: Decentra Network
+      company: Decentra Network Community
       details: |
           I work as CTO and develop on this ambitious blockchain project.
+          Technologies we use:
+            - Python
+            - Blockchain
+            - Consensus Agorithms
+            - Kivy
+            - Flask
+            - Waitress
+            - HTML5 & CSS
+            - WordPress
+
+    - role: Founder
+      time: 2021
+      company: Decentra Network
+      details: |
+          I develop this ambitious blockchain project.
           Technologies we use:
             - Python
             - Blockchain
@@ -118,6 +133,10 @@ projects:
       - title: TD Sequential Calculator
         link: "https://pypi.org/project/td-sequential-calculator/"
         tagline: "A library to calculating td sequental."      
+        
+      - title: Haimgard
+        link: "https://pypi.org/project/haimgard/"
+        tagline: "Haimgard is an environment for writing, testing and using exploit code."          
 
 skills:
     title: Skills &amp; Proficiency
