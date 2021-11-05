@@ -142,6 +142,10 @@ projects:
         link: "https://pypi.org/project/speed-calculator/"
         tagline: "A library to speed calculation of a function."           
 
+      - title: Blur Image
+        link: "https://pypi.org/project/blur-image/"
+        tagline: "A library to blurring images."  
+
 skills:
     title: Skills &amp; Proficiency
 
