@@ -137,6 +137,10 @@ projects:
       - title: Haimgard
         link: "https://pypi.org/project/haimgard/"
         tagline: "Haimgard is an environment for writing, testing and using exploit code."          
+        
+      - title: Speed Calculator
+        link: "https://pypi.org/project/speed-calculator/"
+        tagline: "A library to speed calculation of a function."           
 
 skills:
     title: Skills &amp; Proficiency
