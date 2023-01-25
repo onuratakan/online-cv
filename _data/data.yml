@@ -146,6 +146,16 @@ projects:
         link: "https://pypi.org/project/blur-image/"
         tagline: "A library to blurring images."  
 
+
+      - title: My System Monitor
+        link: "https://pypi.org/project/mysystemmonitor/"
+        tagline: "A library to monitoring system."  
+
+      - title: GitHub Full Backup
+        link: "https://pypi.org/project/github-full-backup/"
+        tagline: "A library to backup your GitHub's."  
+
+
 skills:
     title: Skills &amp; Proficiency
 
